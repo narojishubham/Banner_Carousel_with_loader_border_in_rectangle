@@ -25,6 +25,9 @@ img {
   margin: auto;
   height: 53rem;
 }
+.pointerClass {
+  cursor: pointer;
+}
 
 .active {
   background-color: #000;
