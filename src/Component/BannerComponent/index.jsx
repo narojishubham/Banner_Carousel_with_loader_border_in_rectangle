@@ -122,11 +122,11 @@ function BannerComponent() {
       {/* Header menu  */}
       <div className="MenuBarClass">
         <div className="menuItem">
-          <div>About</div>
-          <div>News</div>
-          <div>Services</div>
-          <div>Our Team</div>
-          <div>Make Enquiry</div>
+          <div className="pointerClass">About</div>
+          <div className="pointerClass">News</div>
+          <div className="pointerClass">Services</div>
+          <div className="pointerClass">Our Team</div>
+          <div className="pointerClass">Make Enquiry</div>
         </div>
         <div className="menuImageClass">
           <img
